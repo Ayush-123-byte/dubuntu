@@ -13,7 +13,7 @@ function App() {
         <div class="container mx-auto px-4">
             <h2 class="text-4xl font-semibold mb-4">Welcome to Our Landing Page</h2>
             <p class="text-lg mb-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            <a href="#" class="bg-white text-blue-500 py-2 px-6 rounded-full font-semibold hover:bg-blue-400 transition duration-300">Get Started</a>
+            <a to="#" class="bg-white text-blue-500 py-2 px-6 rounded-full font-semibold hover:bg-blue-400 transition duration-300">Get Started</a>
         </div>
     </section>
 
@@ -43,7 +43,7 @@ function App() {
         <div class="container mx-auto px-4">
             <h2 class="text-4xl font-semibold mb-4">Ready to get started?</h2>
             <p class="text-lg mb-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            <a href="#" class="bg-white text-gray-800 py-2 px-6 rounded-full font-semibold hover:bg-gray-600 transition duration-300">Sign Up Now</a>
+            <a to="#" class="bg-white text-gray-800 py-2 px-6 rounded-full font-semibold hover:bg-gray-600 transition duration-300">Sign Up Now</a>
         </div>
     </section>
 
@@ -52,8 +52,8 @@ function App() {
         <div class="container mx-auto px-4 flex justify-between items-center">
             <p>&copy; 2024 Your Brand. All rights reserved.</p>
             <ul class="flex space-x-4">
-                <li><a href="#" class="hover:text-gray-400">Privacy Policy</a></li>
-                <li><a href="#" class="hover:text-gray-400">Terms of Service</a></li>
+                <li><a to="#" class="hover:text-gray-400">Privacy Policy</a></li>
+                <li><a to="#" class="hover:text-gray-400">Terms of Service</a></li>
             </ul>
         </div>
     </footer>
