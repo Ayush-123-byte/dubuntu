@@ -10,6 +10,9 @@ function App() {
       <div className="insta mr-20 mt-5">
         <a href="https://www.instagram.com/direct/t/17842040303769815/"> Instagram</a>
       </div>
+      <div className="insta mr-20 mt-5">
+        <a href="https://www.instagram.com/direct/t/17842040303769815/"> facebook</a>
+      </div>
     </header>
 
     <section class="bg-blue-500 py-20 text-white">
