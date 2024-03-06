@@ -2,10 +2,13 @@
 function App() {
   return (
     <div className="App">
-     <header className="bg-gray-900 text-white py-4">
+     <header className="bg-gray-900 text-white py-4 flex justify-around">
       <div className="container mx-auto">
         <h1 className="text-3xl font-bold">Welcome to My Landing Page</h1>
         <p className="mt-2">This is a simple example using Tailwind CSS and React.</p>
+      </div>
+      <div className="insta mr-20 mt-5">
+        <a href="https://www.instagram.com/direct/t/17842040303769815/"> Instagram</a>
       </div>
     </header>
 
